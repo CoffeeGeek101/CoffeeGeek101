@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CoffeeGeek101
 - 👀 I’m interested in Algorithms 
-- 🌱 I’m currently learning Development w/ JAVA
-- 💞️ I’m looking to collaborate on Web Applications based on JAVA backends
+- 🌱 I’m currently learning Development w/ GO-LANG
+- 💞️ I’m looking to collaborate on Web Applications based on GO backends
 - 📫 How to reach me @workwithshoumya@gmail.com
 
 <!---
