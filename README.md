@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoffeeGeek101
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Framer motion, Redux, NoSql databases
+- 🌱 I’m currently learning TypeScript, Redux-Saga, PostgreSQL 
 - 💞️ I’m looking to collaborate on Web Applications based on mentioned tech stack
 - 📫 How to reach me @shoumyadeepnarayan30@gmail.com
 <div style="display:flex; gap: 10px">
