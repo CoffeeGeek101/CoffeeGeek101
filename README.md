@@ -1,11 +1,8 @@
 ## Hello, there. I'm Shoumyadeep ♨️
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media.tenor.com/EERR4LXoJBoAAAAd/hi-wave.gif">
-</div>
+<img hight="200" width="400" alt="GIF" align="center" src="https://media.tenor.com/EERR4LXoJBoAAAAd/hi-wave.gif">
+<p align='left'>I see, you are here! Welcome.</p>
 
-</br>
-</br>
 
 ## A bit about myself 🫡
 
