@@ -1,16 +1,43 @@
-- 👋 Hi, I’m @CoffeeGeek101
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning TypeScript, Redux-Saga, PostgreSQL 
-- 💞️ I’m looking to collaborate on Web Applications based on mentioned tech stack
-- 📫 How to reach me @shoumyadeepnarayan30@gmail.com
-<div style="display:flex; gap: 10px">
-<img src="https://i.pinimg.com/564x/36/93/4b/36934b14c8f65924a8b0c6f8e5602f49.jpg" style="width:80px; height:80px; border-radius:20px;"/>
-  <img alt="Screenshot 2023-02-13 at 8 50 04 PM" src="https://user-images.githubusercontent.com/110016849/218498129-603b550a-4bb9-457f-acff-04ecce0120e4.png" style="width:500px; height:300px; object-fit:cover; border-radius:20px;">
+## Hello, there. I'm Shoumyadeep ♨️
 
- </div> 
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://media.tenor.com/EERR4LXoJBoAAAAd/hi-wave.gif">
+</div>
 
+</br>
+</br>
 
-I'm currently looking for remote jobs/Intenships.
+## A bit about myself 🫡
+
+### - I'm a software engineer, and really into Modern UI development⚛️
+<img hight="400" width="500" alt="GIF" align="right" src="https://media.tenor.com/UPVOb9kg6SQAAAAd/anime-bleach.gif">
+
+### My tech stack :
+- React.js
+- Next.js
+- Tailwind
+- MongoDB
+- Redux/Redux-Saga/Zustand
+- Typescript
+
+### Learning and Interested
+- Redis
+- Prisma
+- GraphQL
+
+</br>
+</br>
+
+## Reach out to me 
+
+### Feel free to reach out, if you have a queries, or even for a nice chat. DMs are always open!
+<img hight="200" width="300" alt="GIF" align="left" src="https://media.tenor.com/i7llTDaTPtUAAAAC/naruto.gif">
+</br>
+</br>
+</br>
+<p align='left'> ➝  DM me on Twitter <a href="https://twitter.com/Shoumyadeep_">@shoumyadeep_</a></p>
+<p align='left'> ➝  You can reach out on <a href="mailto:shoumyadeepnarayan30@gmail.com">Email</a></p>
+<p align='left'> ➝  For more information <a href="https://shoumyadeep.netlify.app">My Portfolio</a></p>
 
 <!---
 CoffeeGeek101/CoffeeGeek101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
