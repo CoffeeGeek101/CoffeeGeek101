@@ -27,7 +27,7 @@
 
 ## Reach out to me 
 
-### Feel free to reach out, if you have a queries, or even for a nice chat. DMs are always open!
+### Feel free to reach out, if you have any queries, or even for a nice chat. DMs are always open!
 <img hight="200" width="300" alt="GIF" align="left" src="https://media.tenor.com/i7llTDaTPtUAAAAC/naruto.gif">
 </br>
 </br>
